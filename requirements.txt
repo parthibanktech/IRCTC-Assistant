@@ -1,0 +1,10 @@
+streamlit
+openai
+chromadb
+tiktoken
+langchain
+langchain-community
+langchain-openai
+pypdf
+python-dotenv
+rank_bm25
