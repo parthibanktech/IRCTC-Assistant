@@ -112,7 +112,7 @@ p.header-desc {
 # --- Sidebar content ---
 with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/en/4/45/IRCTC_Logo.svg", width=180)
-    st.markdown("### 🚆 Indian Railways Assistant")
+    st.markdown("### 🚆 Welcome Indian Railways Assistant")
     with st.expander("ℹ️ About this Assistant", expanded=True):
         st.markdown("""
         Built with ❤️ by **Parthiban K**  
